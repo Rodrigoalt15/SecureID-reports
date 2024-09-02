@@ -76,6 +76,33 @@ Realizar un análisis competitivo es importante ya que es esencial para averigua
 ---
 ### 2.2.2. Registro de entrevistas
 ---
+Entrevista a Alonso Garay - Residentes Locales
+![image](https://github.com/user-attachments/assets/bb3a180c-f03d-4d88-bb9e-74dc068220ea)
+### Resumen de Entrevista
+**Entrevistado**: Alonso Garay, 28 años, residente en Lima, Perú.
+
+**Contexto**:
+- Alonso es un usuario de dispositivos móviles (Android) y computadora.
+- Se siente cómodo usando aplicaciones digitales, especialmente si provienen de empresas conocidas o recomendadas por familiares y amigos.
+- Tiene acceso diario a internet y posee un DNI físico.
+
+**Percepciones sobre la Identificación Digital**:
+- Interesado en la idea de una identificación digital, pero con reservas en función de quién gestiona la información y cómo se asegura la privacidad.
+- Dudas sobre la descentralización del sistema, ya que cree que alguien tendría que verificar la identificación, lo que podría contradecir el concepto de descentralización completa.
+
+**Principales Preocupaciones**:
+- Privacidad y seguridad de su información personal.
+- Necesita comprender mejor los beneficios concretos de usar blockchain para la gestión de identidades.
+- Desea asegurarse de que su identificación no sea utilizada sin su conocimiento.
+
+**Expectativas sobre la Aplicación**:
+- Le gustaría tener control y visibilidad sobre el uso de su identificación digital, incluyendo un historial de transacciones y movimientos asociados a su ID.
+- Quiere conocer los beneficios y la seguridad que ofrece SecureID.
+
+**Conclusión**:
+- Alonso está abierto a la idea de una identificación digital, pero requiere más información sobre la seguridad, privacidad, y los beneficios específicos del sistema propuesto.
+- Su aceptación depende en gran medida de su confianza en la tecnología blockchain y en el manejo de sus datos personales.
+  
 ### 2.2.3. Análisis de entrevistas
 ---
 ## 2.3. Needfinding

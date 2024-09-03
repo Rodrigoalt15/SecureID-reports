@@ -80,7 +80,6 @@ Entrevista a Alonso Garay - Residentes Locales
 ![image](https://github.com/user-attachments/assets/bb3a180c-f03d-4d88-bb9e-74dc068220ea)
 ### Resumen de Entrevista
 **Entrevistado**: Alonso Garay, 28 años, residente en Lima, Perú.
-
 **Contexto**:
 - Alonso es un usuario de dispositivos móviles (Android) y computadora.
 - Se siente cómodo usando aplicaciones digitales, especialmente si provienen de empresas conocidas o recomendadas por familiares y amigos.
@@ -102,7 +101,34 @@ Entrevista a Alonso Garay - Residentes Locales
 **Conclusión**:
 - Alonso está abierto a la idea de una identificación digital, pero requiere más información sobre la seguridad, privacidad, y los beneficios específicos del sistema propuesto.
 - Su aceptación depende en gran medida de su confianza en la tecnología blockchain y en el manejo de sus datos personales.
-  
+
+Entrevista a Isaac López - Residentes Locales
+
+**Entrevistado**: Isaac López (64 años), residente en Lima, Perú.
+![image](https://github.com/user-attachments/assets/7adf3fa8-59d1-4695-a716-818e14a3d260)
+### Resumen de Entrevista
+**Contexto**:
+- Isaac utiliza un dispositivo móvil con sistema operativo Android.
+- Tiene acceso diario a internet.
+- Se siente cómodo utilizando aplicaciones digitales, siempre que sean amigables y fáciles de usar.
+- Posee un DNI físico.
+
+**Percepciones sobre la Identificación Digital**:
+- Considera positiva la idea de gestionar una identificación de manera digital, especialmente si se puede verificar la identidad a través de métodos biométricos como huella digital o reconocimiento ocular.
+- Percibe que una identificación digital podría facilitar y acelerar el acceso a servicios esenciales, como operaciones en bancos, al eliminar la necesidad de portar un DNI físico.
+
+**Principales Preocupaciones**:
+- Preocupación sobre cómo se implementará el sistema de identificación digital en áreas rurales, donde el acceso a internet y a dispositivos móviles es limitado.
+- Cuestiona si la infraestructura tecnológica en Perú, especialmente en la sierra, podría soportar la implementación de esta solución.
+
+**Expectativas sobre la Aplicación**:
+- Le gustaría que la aplicación permitiera ver su identificación y, potencialmente, información adicional relevante, como datos de tributos.
+- Mencionó que una solución de este tipo debe tener en cuenta las limitaciones tecnológicas y de conectividad en áreas rurales.
+
+**Conclusión**:
+- Isaac ve con buenos ojos la idea de una identificación digital, pero destaca la necesidad de superar los desafíos de infraestructura y acceso a tecnología en las zonas rurales de Perú.
+- Sus expectativas se centran en la facilidad de uso y en que la aplicación tenga funciones útiles y adaptadas a su contexto.
+
 ### 2.2.3. Análisis de entrevistas
 ---
 ## 2.3. Needfinding

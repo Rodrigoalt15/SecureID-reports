@@ -29,6 +29,15 @@ Realizar un análisis competitivo es importante ya que es esencial para averigua
 | **Amenazas** | Resistencias culturales y tecnológicas en las áreas rurales. | Competencia de otras iniciativas globales de identificación. | Regulaciones gubernamentales sobre criptomonedas y servicios financieros. | Competencia en el mercado de verificación de identidad digital. |
 ---
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+- Fortalezas: SecureID se destaca por su capacidad para operar en zonas rurales con conectividad limitada, lo cual es fundamental para el éxito en áreas con infraestructura deficiente. Para capitalizar esta ventaja, deberíamos continuar desarrollando y perfeccionando su funcionalidad offline con sincronización.
+
+- Debilidades: Una debilidad significativa para SecureID es su dependencia de la adopción por parte de las autoridades locales y los residentes.Para mitigar este riesgo,deberíamos implementar un programa de incentivos dirigido a estos grupos, destacando cómo la adopción de SecureID puede beneficiarlos directamente.
+
+- Oportunidades: SecureID tiene la oportunidad de expandirse a otras regiones con infraestructura limitada, aprovechando la experiencia adquirida en las zonas rurales de Perú. Resaltar cómo SecureID contribuye a la inclusión digital será clave para captar la atención de un público más amplio y aumentar la visibilidad de la plataforma.
+
+- Amenazas: SecureID enfrenta varias amenazas, incluyendo resistencias culturales y tecnológicas en áreas rurales. Para abordar esta amenaza, es esencial implementar programas de sensibilización cultural y tecnológica, colaborando con líderes comunitarios para fomentar la aceptación de la plataforma. La competencia de otras iniciativas globales de identificación digital también representa un desafío. Para diferenciarse, SecureID debe resaltar su enfoque en áreas rurales y su funcionalidad offline, ofreciendo características únicas que la competencia no tiene
+
 ---
 ## 2.2. Entrevistas
 ---
@@ -137,6 +146,10 @@ Entrevista a Isaac López - Residentes Locales
 ---
 ##### Residentes en las zonas rurales de la sierra
 ![Rosa Huaman](https://github.com/user-attachments/assets/9e83f34b-f844-46b0-ae59-c36b1cf963ad)
+
+##### Autoridades locales
+![image](https://github.com/user-attachments/assets/f196e68b-38f8-4408-a3e4-a38158b86ff9)
+
 ### 2.3.2. User Task Matrix
 ---
 | **User Tasks**                        | **Residente de zonas rurales**                     | **Autoridades Locales**                                           |
